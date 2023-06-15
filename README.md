@@ -16,8 +16,6 @@
         <th width="100">11:00 - 11:30</th>
         <th width="100">11:30 - 12:00</th>
     </tr>
-    
-    
     <tr border="2" cellpadding="20">
         <th bgcolor="#cccccc" width="100">Monday</th>
         <td bgcolor="#efefef" colspan="2" width="100">English</td>
